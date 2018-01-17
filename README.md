@@ -5,7 +5,7 @@
  
 Projects have been divided into nine unique categories:
 1. [Applications](Applications.md)
-2. [Exchanges](Exchanges.md)
+2. [Trading](Trading.md)
 3. [Forums](Forums.md)
 4. [ICOs/Tokens/Assets](ICOsAssetsAndMore.md)
 5. [Ledger Explorers](LedgerExplorers.md)
