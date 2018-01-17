@@ -1,4 +1,4 @@
-## Exchanges
+## Trading applications
 ### [Stellar Price](http://stellar-price.com/) - [source](https://github.com/andruby/pricey)   
 stellar-price<span>.com helps new users find the best exchange rate for purchasing Lumens using Elixir to compute the optimal currency exchange route.  
 &nbsp;
