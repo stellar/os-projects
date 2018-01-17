@@ -1,3 +1,7 @@
 ## Remittance Applications
 
-None yet! Make yours the first to be added! [Click here to learn how.](https://github.com/stellar/os-projects/tree/master#-how-to-get-your-project-listed)
+### [Stellar Fox](https://stellarfox.net) - [source](https://github.com/stellar-fox)
+Stellar Fox is building remittance platform that will merge
+traditional banking experience and ease of use with Stellar
+network and its underlying technologies.  
+&nbsp;
