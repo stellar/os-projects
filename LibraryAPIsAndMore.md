@@ -40,5 +40,5 @@ Stellar-QR is a helper library that generates Stellar links and QR codes.
 &nbsp;
 
 ### Serverless Federation Server - [source](https://github.com/fracek/stellar-federation-function)
-Serverless Federation Server running on Google Cloud Function.
+Serverless Federation Server running on Google Cloud Function.  
 &nbsp;
