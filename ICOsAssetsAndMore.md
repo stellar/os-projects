@@ -1,7 +1,5 @@
 ## ICOs/Assets/Tokens
 
-You should list yours! [Click here to learn how to list your project.](https://github.com/stellar/os-projects/tree/master#-how-to-get-your-project-listed)
-
 ### [SureRemit](https://token.sureremit.co/)
 SureRemit is an ecosystem for global non-cash remittances. SureRemit leverages the merchant network of SureGifts and global partners to enable immigrants to send e-vouchers that can be used to purchase goods and services at several quality merchants and pay bills globally.  
 &nbsp;
