@@ -38,3 +38,7 @@ This project is a standalone single-node Stellar network with fixtures for integ
 ### [Stellar-QR](https://www.npmjs.com/package/stellar-qr) - [source](https://github.com/s-a-y/stellar-qr)   
 Stellar-QR is a helper library that generates Stellar links and QR codes.  
 &nbsp;
+
+### Serverless Federation Server - [source](https://github.com/fracek/stellar-federation-function)
+Serverless Federation Server running on Google Cloud Function.  
+&nbsp;
