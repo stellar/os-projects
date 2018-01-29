@@ -24,6 +24,6 @@ Listen to the Stellar ledger and receive email notifications for activity from a
 Merges Stellar accounts that have custom assets and offers.  
 &nbsp;
 
-### [Stellar Fox :: Redshift](https://stellar-fox.github.io/redshift/) - [source](https://github.com/stellar-fox/redshift)
-Generate and restore hierarchically deterministic [HD] Stellar accounts that are compatible with Ledger Nano S, based on 24-word mnemonic.  
+### [Redshift](https://stellar-fox.github.io/redshift/) - [source](https://github.com/stellar-fox/redshift)
+Generate and restore hierarchically deterministic [HD] Stellar accounts that are compatible with Ledger Nano S, based on 24-word mnemonic. Part of the Stellar Fox Project. 
 &nbsp;
