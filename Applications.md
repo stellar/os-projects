@@ -25,5 +25,5 @@ Merges Stellar accounts that have custom assets and offers.
 &nbsp;
 
 ### [Redshift](https://stellar-fox.github.io/redshift/) - [source](https://github.com/stellar-fox/redshift)
-Generate and restore hierarchically deterministic [HD] Stellar accounts that are compatible with Ledger Nano S, based on 24-word mnemonic. Part of the Stellar Fox Project. 
+Generate and restore hierarchically deterministic [HD] Stellar accounts that are compatible with Ledger Nano S, based on 24-word mnemonic. Part of the Stellar Fox project.  
 &nbsp;
