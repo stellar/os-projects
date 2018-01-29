@@ -1,4 +1,5 @@
 ## Wallets
+> Disclaimer: Stellar.org does not own, maintain or operate any of these wallets.
 
 ### Stellar for Ledger Nano S - [source](https://github.com/lenondupe/ledger-app-stellar)    
 This project is a wallet app for the Ledger Nano S that makes it possible to store your Stellar-based assets on that device.   
