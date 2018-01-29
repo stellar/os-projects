@@ -36,6 +36,6 @@ BlackWallet is an easy-to-use multiplatform web Stellar Lumens wallet. It is an 
 Runs in Windows and Linux and can support the record query as well as send and receive Lumens. Support in Chinese and English.  
 &nbsp;
 
-### [Cygnus (Stellar Fox)](https://wallet.stellarfox.net) - [source](https://github.com/stellar-fox/cygnus)
+### [Cygnus](https://wallet.stellarfox.net) - [source](https://github.com/stellar-fox/cygnus)
 We want to find a sweet spot between responsibility, security and ease of use. Our platform and wallet is already cross-compatible with Ledger Nano S, a world class cryptocurrency hardware wallet. Part of the Stellar Fox project.  
 &nbsp;
