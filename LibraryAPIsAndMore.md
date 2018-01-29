@@ -42,3 +42,7 @@ Stellar-QR is a helper library that generates Stellar links and QR codes.
 ### Serverless Federation Server - [source](https://github.com/fracek/stellar-federation-function)
 Serverless Federation Server running on Google Cloud Function.  
 &nbsp;
+
+### Stellar ICO toolkit - [source](https://github.com/StellarKit)
+Everything you need for an ICO. Docker images for Horizon, Core, Federation, Bifrost, Bitcoin, and Ethereum. Uses Docker networking to link them together. Plus a client desktop app that creates tokens and implements most of the JS SDK.  
+&nbsp;
