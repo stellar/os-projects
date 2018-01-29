@@ -16,6 +16,8 @@ Projects have been divided into nine unique categories:
 
 Projects are listed in each category in no particular order. 
 
+> Disclaimer: Stellar.org does not own, maintain or operate any of these projects or wallets. All projects listed in this repo are maintained by the Stellar Community.
+
 ### 🚀 How to get your project listed
 To have your project listed in this collection please submit a PR of an edit of the appropriate category file. The edit should follow this format: 
  
@@ -29,4 +31,6 @@ Descriptions should be 40 words or less, and should be followed by two trailing 
 
 ### 🚀 How to get your project unlisted
 To have your project removed from the listing, please submit a PR of an edit, removing your project. 
+
+
 
