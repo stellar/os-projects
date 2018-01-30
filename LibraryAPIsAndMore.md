@@ -11,6 +11,10 @@ Get granular intelligence about the Stellar network using @bfish’s new Elastic
 A Javascript plug-in to accept donations of lumens on your website.  
 &nbsp;
 
+### [Stellar Javascript SDK](https://stellar.github.io/js-stellar-sdk/) - [source](https://github.com/stellar/js-stellar-sdk)   
+Main Stellar client library for the Javascript language
+&nbsp;
+
 ### StellarQtSDK - [source](https://github.com/bnogalm/StellarQtSDK)   
 This project is a complete port of Stellar Java SDK to Qt/C++: full featured with all tests passing.  
 &nbsp;
