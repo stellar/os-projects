@@ -1,6 +1,6 @@
 ## Ledger Explorers
-### [steepx](https://steexp.com/) - [source](https://github.com/chatch/stellarexplorer)   
-steepx is human readable overview of operations carried out on the Stellar Network.  
+### [steexp](https://steexp.com/) - [source](https://github.com/chatch/stellarexplorer)
+steexp is human readable overview of operations carried out on the Stellar Network.
 &nbsp;
 
 ### [Stellar Navigator](https://stellar.debtmoney.xyz/) - [source](https://github.com/fiatjaf/stellar-navigator)   

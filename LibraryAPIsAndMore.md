@@ -11,6 +11,10 @@ Get granular intelligence about the Stellar network using @bfish’s new Elastic
 A Javascript plug-in to accept donations of lumens on your website.  
 &nbsp;
 
+### [Stellar Javascript SDK](https://stellar.github.io/js-stellar-sdk/) - [source](https://github.com/stellar/js-stellar-sdk)   
+Main Stellar client library for the Javascript language
+&nbsp;
+
 ### StellarQtSDK - [source](https://github.com/bnogalm/StellarQtSDK)   
 This project is a complete port of Stellar Java SDK to Qt/C++: full featured with all tests passing.  
 &nbsp;
@@ -46,3 +50,8 @@ Serverless Federation Server running on Google Cloud Function.
 ### Stellar ICO toolkit - [source](https://github.com/StellarKit)
 Everything you need for an ICO. Docker images for Horizon, Core, Federation, Bifrost, Bitcoin, and Ethereum. Uses Docker networking to link them together. Plus a client desktop app that creates tokens and implements most of the JS SDK.  
 &nbsp;
+
+### Bitfrost - [source](https://github.com/stellar/go/tree/master/services/bifrost)
+Bifrost is highly available and secure Bitcoin/Ethereum → Stellar bridge. It allows users to move BTC/ETH to Stellar network and then trade them to other tokens or participate in ICOs (initial coin offering).
+&nbsp;
+
