@@ -32,6 +32,7 @@ Stellar Desktop client is a full featured wallet for Stellar and could be run on
 ### [BlackWallet](https://blackwallet.co/) - [source](https://github.com/orbit84/blackwallet)   
 BlackWallet is an easy-to-use multiplatform web Stellar Lumens wallet. It is an enhanced account viewer as it doesn’t require users to create an account – all you need is a private key.   
 &nbsp;
+> BlackWallet was compromised in January 2018, and the status of the wallet is currently unknown. 
 
 ### go-StellarWallet - [source](https://github.com/jojopoper/go-StellarWallet)   
 Runs in Windows and Linux and can support the record query as well as send and receive Lumens. Support in Chinese and English.  
