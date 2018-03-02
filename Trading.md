@@ -3,8 +3,8 @@
 stellar-price<span>.com helps new users find the best exchange rate for purchasing Lumens using Elixir to compute the optimal currency exchange route.  
 &nbsp;
 
-### [Lupoex.<span>com](https://lupoex.com/exchange/choose) - [source](https://github.com/stellarport/portal)   
-Lupoex is a comprehensive, real time trading portal for the Stellar DEX and a primitive wallet.  
+### [Stellarport.<span>io](https://stellarport.io/) - [source](https://github.com/stellarport)   
+Stellarport is a comprehensive, real time trading portal for the Stellar DEX and a primitive wallet.  
 &nbsp;
 
 ### [StellarTerm](https://stellarterm.com/) - [source](https://github.com/irisli/stellarterm)   
