@@ -23,3 +23,7 @@ Merges Stellar accounts that have custom assets and offers.
 ### [Redshift](https://stellar-fox.github.io/redshift/) - [source](https://github.com/stellar-fox/redshift)
 Generate and restore hierarchically deterministic [HD] Stellar accounts that are compatible with Ledger Nano S, based on 24-word mnemonic. Part of the Stellar Fox project.  
 &nbsp;
+
+### [One Daijo](https://www.onedaijo.com/) - [demo](https://www.onedaijo.com/demo), [frontend source](https://github.com/OneDaijo/sbc-demo-frontend), [backend source](https://github.com/OneDaijo/sbc-demo-backend)
+One Daijo Ltd.’s global P2P lending application built on Stellar, bringing affordable loans to the emerging middle class in developing countries and helping them build immutable digital credit identities. The goal of the project is financial inclusion.
+&nbsp;
