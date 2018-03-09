@@ -25,5 +25,5 @@ Generate and restore hierarchically deterministic [HD] Stellar accounts that are
 &nbsp;
 
 ### [One Daijo](https://www.onedaijo.com/) - [demo](https://www.onedaijo.com/demo), [frontend source](https://github.com/OneDaijo/sbc-demo-frontend), [backend source](https://github.com/OneDaijo/sbc-demo-backend)
-One Daijo Ltd.’s global P2P lending application built on Stellar, bringing affordable loans to the emerging middle class in developing countries and helping them build immutable digital credit identities. The goal of the project is financial inclusion.
+One Daijo Ltd.’s global P2P lending application built on Stellar, bringing affordable loans to the emerging middle class in developing countries and helping them build immutable digital credit identities. The goal of the project is to make financial inclusion a reality for the world's 2B+ financially underserved.
 &nbsp;
