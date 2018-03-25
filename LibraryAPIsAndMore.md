@@ -48,6 +48,9 @@ Everything you need for an ICO. Docker images for Horizon, Core, Federation, Bif
 &nbsp;  
 
 ### Stellar Python SDK - [source](https://github.com/StellarCN/py-stellar-base)
-Stellar SDK built out for python.  
+Stellar SDK for Python.  
 &nbsp;  
 
+### Stellar Scala SDK - [source](https://github.com/synesso/scala-stellar-sdk)
+Stellar SDK for Scala.  
+&nbsp;  
