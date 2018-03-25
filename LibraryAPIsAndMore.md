@@ -49,5 +49,8 @@ Everything you need for an ICO. Docker images for Horizon, Core, Federation, Bif
 
 ### Stellar Python SDK - [source](https://github.com/StellarCN/py-stellar-base)
 Stellar SDK built out for python.  
-&nbsp;  
+&nbsp;
 
+### Stellar Unity3D SDK - [source](https://github.com/Kirbyrawr/stellar-unity)
+Integration of the C# SDK into Unity 3D (game engine), it also contains code utils and examples. 
+&nbsp;
