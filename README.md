@@ -7,12 +7,11 @@ Projects have been divided into nine unique categories:
 1. [Applications](Applications.md)
 2. [Trading](Trading.md)
 3. [Forums](Forums.md)
-4. [ICOs/Tokens/Assets](ICOsAssetsAndMore.md)
-5. [Ledger Explorers](LedgerExplorers.md)
-6. [Libraries/APIs/Frameworks/Plug-ins](LibraryAPIsAndMore.md)
-7. [Remittance Applications](Remittance.md)
-8. [Tutorials and Documentation](TutorialsAndDocs.md)
-9. [Wallets](Wallets.md)
+4. [Ledger Explorers](LedgerExplorers.md)
+5. [Libraries/APIs/Frameworks/Plug-ins](LibraryAPIsAndMore.md)
+6. [Remittance Applications](Remittance.md)
+7. [Tutorials and Documentation](TutorialsAndDocs.md)
+8. [Wallets](Wallets.md)
 
 Projects are listed in each category in no particular order. 
 
