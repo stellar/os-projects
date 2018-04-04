@@ -25,5 +25,5 @@ Generate and restore hierarchically deterministic [HD] Stellar accounts that are
 &nbsp;
 
 ### [Stellar Wind](http://www.stellarwind.stream/) - [source](https://github.com/lightningboss/stellar-wind)   
-Stellar Wind composes unique music from Stellar transactions.
+Stellar Wind composes unique music from Stellar transactions.  
 &nbsp;
