@@ -58,3 +58,7 @@ Integration of the C# SDK into Unity 3D (game engine), it also contains code uti
 ### Stellar Scala SDK - [source](https://github.com/synesso/scala-stellar-sdk)
 Stellar SDK for Scala.  
 &nbsp;  
+
+### Stellar NebulaForge - [source](https://github.com/starformlabs/stellar-nebulaforge-aws)
+NebulaForge enables developers to quickly deploy their Stellar infrastructure on AWS. Our "one-click" templates allow you to spend less time on infrastructure, and more time changing the world.
+&nbsp;  
