@@ -1,4 +1,3 @@
 ## Forums 
-### [mystellar<span>.org](https://www.mystellar.org/portal.php) - [source](https://github.com/san2ok/myStellar.org)   
-mystellar<span>.org is a public forum dedicated to Stellar news, community and announcements.  
-&nbsp;
+
+None yet! You should list yours. [Click here to learn how to list your project.](https://github.com/stellar/os-projects/tree/master#-how-to-get-your-project-listed)
