@@ -11,3 +11,7 @@ Generate and restore hierarchically deterministic [HD] Stellar accounts that are
 ### [Stellar Wind](http://www.stellarwind.stream/) - [source](https://github.com/lightningboss/stellar-wind)   
 Stellar Wind composes unique music from Stellar transactions.  
 &nbsp;
+
+### [DeathRaffle](http://www.deathraffle.com) - [source](https://github.com/LuckyURE/DeathRaffle)   
+DeathRaffle is an online version of a Death Party but on a much larger scale using the Stellar Payment Network.
+&nbsp;
