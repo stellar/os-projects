@@ -39,3 +39,7 @@ Stellar SDK for Scala.
 ### Stellar NebulaForge - [source](https://github.com/starformlabs/stellar-nebulaforge-aws)
 NebulaForge enables developers to quickly deploy their Stellar infrastructure on AWS. Our "one-click" templates allow you to spend less time on infrastructure, and more time changing the world.
 &nbsp;  
+
+### Notifier - [source](https://github.com/orbitlens/stellar-notifier)
+A standalone service that tracks operations and streams notifications to the subscribers with guaranteed delivery. The notifications are sent as JSON-encoded HTTP POST requests.
+&nbsp;  
