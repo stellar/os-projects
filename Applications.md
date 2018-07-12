@@ -11,3 +11,7 @@ Generate and restore hierarchically deterministic [HD] Stellar accounts that are
 ### [Stellar Wind](http://www.stellarwind.stream/) - [source](https://github.com/lightningboss/stellar-wind)   
 Stellar Wind composes unique music from Stellar transactions.  
 &nbsp;
+
+### [MyStellar.Tools](https://mystellar.tools) - [source](https://github.com/mahansky/mystellartools)
+Secure and easy to use web wallet and Stellar blockchain/network explorer.
+&nbsp;
