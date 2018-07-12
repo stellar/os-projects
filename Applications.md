@@ -11,3 +11,6 @@ Generate and restore hierarchically deterministic [HD] Stellar accounts that are
 ### [Stellar Wind](http://www.stellarwind.stream/) - [source](https://github.com/lightningboss/stellar-wind)   
 Stellar Wind composes unique music from Stellar transactions.  
 &nbsp;
+
+### [StellarFed](https://stellarfed.org) - [source](https://github.com/ankurp/StellarFed)
+Stellar Federation Server that also acts as a Account watcher and will email you of any activity to your Stellar Account.
