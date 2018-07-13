@@ -1,5 +1,9 @@
 ## Applications
 
+### [Mobius DApp Store](https://store.mobius.network) - [source](https://github.com/mobius-network/mobius-wallet)   
+A web wallet with an App Store UI that makes it easy for users to pay apps with MOBI.
+&nbsp;
+
 ### [StellarGuard](https://stellarguard.me) - [source](https://github.com/stellarguard/stellarguard)   
 Keep your Stellar lumens safe with multisig and two factor authentication. Works with your normal wallet for additional security.
 &nbsp;     
