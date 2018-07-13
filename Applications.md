@@ -1,5 +1,9 @@
 ## Applications
 
+### [Mobius DApp Store](https://store.mobius.network) - [source](https://github.com/mobius-network/mobius-wallet)   
+A web wallet with an App Store UI that makes it easy for users to pay apps with MOBI.
+&nbsp;     
+
 ### [MyStellar.Tools](https://mystellar.tools) - [source](https://github.com/mahansky/mystellartools)
 Secure and easy to use web wallet and Stellar blockchain/network explorer.
 &nbsp;
