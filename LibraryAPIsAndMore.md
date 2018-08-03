@@ -42,4 +42,8 @@ NebulaForge enables developers to quickly deploy their Stellar infrastructure on
 
 ### Notifier - [source](https://github.com/orbitlens/stellar-notifier)
 A standalone service that tracks operations and streams notifications to the subscribers with guaranteed delivery. The notifications are sent as JSON-encoded HTTP POST requests.
-&nbsp;  
+&nbsp; 
+
+### Stellar Rust SDK - [source](https://github.com/kbacha/stellar-sdk)
+Stellar SDK for Rust
+&nbsp; 
