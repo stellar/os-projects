@@ -1,5 +1,9 @@
 ## Libraries/APIs/Frameworks/Plug-ins
 
+### Stellar-Core-Go - [source](https://github.com/tinco/stellar-core-go)   
+This project is an implementation of the Stellar-Core Protocol (SCP) in Go. You can use its libraries to setup a connection to the Stellar-Core network, get information from nodes and even broadcast transactions.  
+&nbsp;
+
 ### StellarQtSDK - [source](https://github.com/bnogalm/StellarQtSDK)   
 This project is a complete port of Stellar Java SDK to Qt/C++: full featured with all tests passing.  
 &nbsp;
