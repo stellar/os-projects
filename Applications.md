@@ -8,7 +8,7 @@ A web wallet with an App Store UI that makes it easy for users to pay apps with 
 Secure and easy to use web wallet and Stellar blockchain/network explorer.
 &nbsp;
 
-### [PAKET Project](https://paket.global) - [source](https://github.com/paket-corer/manager)
+### [PAKET Project](https://paket.global) - [source](https://github.com/paket-core/manager)
 A protocol (And supporting software) for decentralized delivery of goods.
 &nbsp;
 
