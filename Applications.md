@@ -9,7 +9,7 @@ Secure and easy to use web wallet and Stellar blockchain/network explorer.
 &nbsp;
 
 ### [PAKET Project](https://paket.global) - [source](https://github.com/paket-core/manager)
-A protocol (And supporting software) for decentralized delivery of goods.
+A protocol (And supporting software) for a decentralized, global and efficient package delivery based on Stellar.
 &nbsp;
 
 ### [Redshift](https://stellar-fox.github.io/redshift/) - [source](https://github.com/stellar-fox/redshift)
