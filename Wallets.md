@@ -28,3 +28,7 @@ We want to find a sweet spot between responsibility, security and ease of use. O
 ### [stcli](https://github.com/antb123/stcli) - [source](https://github.com/antb123/stcli)
 A python based command line crypto wallet for stellar that is simple and all in one file in less than 600 lines of code. The first crypto REPL wallet. Used for testing federation, deposit, withdrawal, and remittance - Linux, Windows, Mac. Python
 &nbsp;
+
+### [Lumina](https://play.google.com/store/apps/details?id=tech.duchess.luminawallet) - [source](https://gitlab.com/duchesstech/LuminaWallet)
+An open-source, Android-native Stellar Account Manager. Serves as a resource for other developers learn how to manage Stellar Accounts natively in Android.  Java.
+&nbsp;
