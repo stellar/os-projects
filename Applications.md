@@ -1,5 +1,9 @@
 ## Applications
 
+### [Quorum Explorer](https://www.quorumexplorer.com) - [source](https://github.com/tinco/quorum_explorer)   
+Quorum Explorer displays information from the Stellar-Core network. Its goal is to present actionable information for node admins.  
+&nbsp; 
+
 ### [Mobius DApp Store](https://store.mobius.network) - [source](https://github.com/mobius-network/mobius-wallet)   
 A web wallet with an App Store UI that makes it easy for users to pay apps with MOBI.
 &nbsp;     
