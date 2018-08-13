@@ -28,3 +28,6 @@ We want to find a sweet spot between responsibility, security and ease of use. O
 ### [stcli](https://github.com/antb123/stcli) - [source](https://github.com/antb123/stcli)
 A python based command line crypto wallet for stellar that is simple and all in one file in less than 600 lines of code. The first crypto REPL wallet. Used for testing federation, deposit, withdrawal, and remittance - Linux, Windows, Mac. Python
 &nbsp;
+
+### [Stratiom](https://stratiom.io) - [source](https://github.com/mitchzof/stratiom)
+Stratiom is a web based wallet that serves as an easy to use, open-source interface to make and manage peer-to-peer payments on the Stellar network.  It offers several standard wallet features, though primarily serves as a tool exclusively for these specialized payments.
