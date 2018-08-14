@@ -27,3 +27,7 @@ Keep your Stellar lumens safe with multisig and two factor authentication. Works
 ### [Stellar Wind](http://www.stellarwind.stream/) - [source](https://github.com/lightningboss/stellar-wind)   
 Stellar Wind composes unique music from Stellar transactions.  
 
+### [StellarPay](http://stellarpay.io/) - [source](http://github.com/stellarpay)   
+StellarPay is a project that aims to enable merchants and individuals to make and receive payments on the Stellar network easily and securely.
+&nbsp;
+
