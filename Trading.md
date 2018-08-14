@@ -15,3 +15,7 @@ StellarTerm is an open source client for the Stellar network. Send, receive, and
 StellarBot is a market-making bot that aims to increase the liquidity of an anchor’s assets against Lumens.   
 &nbsp;
 
+### [coinrabbit](https://coinrabbit.io/) - [source](https://github.com/coinrabbit)   
+coinrabbit<span>.io is a multi-exchange trading API that links the SDEX with other centralized exchanges.
+&nbsp;
+
