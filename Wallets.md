@@ -35,3 +35,6 @@ An open-source, Android-native Stellar Account Manager. Serves as a resource for
 
 ### [Stratiom](https://stratiom.io) - [source](https://github.com/mitchzof/stratiom)
 Stratiom is a web based wallet that serves as an easy to use, open-source interface to make and manage peer-to-peer payments on the Stellar network.  It offers several standard wallet features, though primarily serves as a tool exclusively for these specialized payments.
+
+### [BlockEQ](https://www.blockeq.com) - [source](https://github.com/Block-Equity/)
+BlockEQ is a secure Stellar Wallet and Trading Client allows you to send, receive, and trade XLM and Stellar Tokens from an account that only you can access. Your secret key is encrypted on your device and never shared with anyone.
