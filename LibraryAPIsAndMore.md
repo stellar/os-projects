@@ -24,6 +24,10 @@ This project is a standalone single-node Stellar network with fixtures for integ
 Serverless Federation Server running on Google Cloud Function.  
 &nbsp;
 
+### [Constellation FS](https://constellation-fs.org) - [source](https://github.com/ilrico/constellation-fs)   
+Constellation-FS is an incentivation system for IPFS nodes to pin specific files, using the power of Stellar as micropayment infrastructure. It is architured around gateways, an IPFS node python library and a REST API.  
+&nbsp; 
+
 ### Stellar ICO toolkit - [source](https://github.com/StellarKit)
 Everything you need for an ICO. Docker images for Horizon, Core, Federation, Bifrost, Bitcoin, and Ethereum. Uses Docker networking to link them together. Plus a client desktop app that creates tokens and implements most of the JS SDK.  
 &nbsp;  
