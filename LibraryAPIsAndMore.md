@@ -56,6 +56,6 @@ A standalone service that tracks operations and streams notifications to the sub
 Stellar SDK for Rust
 &nbsp; 
 
-### xlm - Stellar R Library [source](https://github.com/froocpu/xlm)
+### xlm - Stellar R Library - [source](https://github.com/froocpu/xlm)
 An API wrapper for interacting with Horizon in R, ideal for proof of concept work and data analysis. 
 &nbsp; 
