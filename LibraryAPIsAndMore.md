@@ -44,6 +44,10 @@ Integration of the C# SDK into Unity 3D (game engine), it also contains code uti
 Stellar SDK for Scala.  
 &nbsp;  
 
+### Inbot Stellar Kotlin Wrapper - [source](https://github.com/Inbot/inbot-stellar-kotlin-wrapper)   
+Kotlin client that adapts, enriches, and adds to the official Java SDK.
+&nbsp;
+
 ### Stellar NebulaForge - [source](https://github.com/starformlabs/stellar-nebulaforge-aws)
 NebulaForge enables developers to quickly deploy their Stellar infrastructure on AWS. Our "one-click" templates allow you to spend less time on infrastructure, and more time changing the world.
 &nbsp;  
