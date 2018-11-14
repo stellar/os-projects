@@ -1,4 +1,15 @@
-# Stellar's Open Sourced Community Projects
+# DEPRECATION NOTICE: We're no longer keeping this repository up to date.
+Over time we've realized that the os-projects repo is not the best way to highlight the projects in
+our ecosystem. Notably it's mostly hidden from the rest of the world, we're not differentiating
+which projects are actively supported and which ones need some love, and really showing these off
+with the rest of Stellar's developer resources.
+
+Our goal is to turn a lot of these projects (after an audit) into a gallery on our website in early
+2019. For now, this is an existing repository of OSS projects for Stellar.
+
+- SDF
+
+## Stellar's Open Sourced Community Projects
 
 
 ⭐ Welcome to the list of open sourced community projects! ⭐
