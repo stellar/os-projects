@@ -12,6 +12,10 @@ A web wallet with an App Store UI that makes it easy for users to pay apps with 
 Secure and easy to use web wallet and Stellar blockchain/network explorer.
 &nbsp;
 
+### [PAKET Project](https://paket.global) - [source](https://github.com/paket-core/manager)
+A protocol (and supporting software) for Stellar based, decentralized, global, and efficient package delivery.
+&nbsp;
+
 ### [Redshift](https://stellar-fox.github.io/redshift/) - [source](https://github.com/stellar-fox/redshift)
 Generate and restore hierarchically deterministic [HD] Stellar accounts that are compatible with Ledger Nano S, based on 24-word mnemonic. Part of the Stellar Fox project.  
 &nbsp;
